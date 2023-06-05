@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\HRMS\\HRMS.WebAPI\\HRMS.WebAPI\\HRMS.Repository\\HRMS.Repository.csproj": {}
+    "C:\\AK\\Ui-Path\\Pinus Project\\HRMS\\HRMS WEBAPI\\HRMS.WebAPI\\HRMS.Repository\\HRMS.Repository.csproj": {}
   },
   "projects": {
-    "D:\\HRMS\\HRMS.WebAPI\\HRMS.WebAPI\\HRMS.Repository\\HRMS.Repository.csproj": {
+    "C:\\AK\\Ui-Path\\Pinus Project\\HRMS\\HRMS WEBAPI\\HRMS.WebAPI\\HRMS.Repository\\HRMS.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HRMS\\HRMS.WebAPI\\HRMS.WebAPI\\HRMS.Repository\\HRMS.Repository.csproj",
+        "projectUniqueName": "C:\\AK\\Ui-Path\\Pinus Project\\HRMS\\HRMS WEBAPI\\HRMS.WebAPI\\HRMS.Repository\\HRMS.Repository.csproj",
         "projectName": "HRMS.Repository",
-        "projectPath": "D:\\HRMS\\HRMS.WebAPI\\HRMS.WebAPI\\HRMS.Repository\\HRMS.Repository.csproj",
-        "packagesPath": "C:\\Users\\Pinus\\.nuget\\packages\\",
-        "outputPath": "D:\\HRMS\\HRMS.WebAPI\\HRMS.WebAPI\\HRMS.Repository\\obj\\",
+        "projectPath": "C:\\AK\\Ui-Path\\Pinus Project\\HRMS\\HRMS WEBAPI\\HRMS.WebAPI\\HRMS.Repository\\HRMS.Repository.csproj",
+        "packagesPath": "C:\\Users\\abiyu\\.nuget\\packages\\",
+        "outputPath": "C:\\AK\\Ui-Path\\Pinus Project\\HRMS\\HRMS WEBAPI\\HRMS.WebAPI\\HRMS.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Pinus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\abiyu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "D:\\UiPath": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -70,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

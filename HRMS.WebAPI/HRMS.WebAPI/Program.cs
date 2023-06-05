@@ -13,7 +13,8 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddSingleton<IConfiguration>(builder.Configuration);
-builder.Services.AddTransient<ILeaveTypeNameRepository, LeaveTypeNameRepository>();
+builder.Services.AddTransient<ILeaveTypeRepository, LeaveTypeRepository>();
+builder.Services.AddTransient<IDesignationRepository, DesignationRepository>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

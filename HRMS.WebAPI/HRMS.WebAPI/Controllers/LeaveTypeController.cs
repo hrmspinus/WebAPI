@@ -13,8 +13,8 @@ namespace HRMS.WebAPI.Controllers
     };
 
         private readonly ILogger<LeaveTypeController> _logger;
-        private ILeaveTypeNameRepository _leavetyperepo;
-        public LeaveTypeController(ILogger<LeaveTypeController> logger, ILeaveTypeNameRepository leavetyperepo)
+        private ILeaveTypeRepository _leavetyperepo;
+        public LeaveTypeController(ILogger<LeaveTypeController> logger, ILeaveTypeRepository leavetyperepo)
         {
             _logger = logger;
             _leavetyperepo = leavetyperepo;
