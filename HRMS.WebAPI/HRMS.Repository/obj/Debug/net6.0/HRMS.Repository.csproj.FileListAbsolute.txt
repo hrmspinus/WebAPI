@@ -1,36 +1,12 @@
-F:\Projects\HRMS.WebAPI\HRMS.Repository\bin\Debug\net6.0\HRMS.Repository.deps.json
-F:\Projects\HRMS.WebAPI\HRMS.Repository\bin\Debug\net6.0\HRMS.Repository.dll
-F:\Projects\HRMS.WebAPI\HRMS.Repository\bin\Debug\net6.0\HRMS.Repository.pdb
-F:\Projects\HRMS.WebAPI\HRMS.Repository\obj\Debug\net6.0\HRMS.Repository.csproj.AssemblyReference.cache
-F:\Projects\HRMS.WebAPI\HRMS.Repository\obj\Debug\net6.0\HRMS.Repository.GeneratedMSBuildEditorConfig.editorconfig
-F:\Projects\HRMS.WebAPI\HRMS.Repository\obj\Debug\net6.0\HRMS.Repository.AssemblyInfoInputs.cache
-F:\Projects\HRMS.WebAPI\HRMS.Repository\obj\Debug\net6.0\HRMS.Repository.AssemblyInfo.cs
-F:\Projects\HRMS.WebAPI\HRMS.Repository\obj\Debug\net6.0\HRMS.Repository.csproj.CoreCompileInputs.cache
-F:\Projects\HRMS.WebAPI\HRMS.Repository\obj\Debug\net6.0\HRMS.Repository.dll
-F:\Projects\HRMS.WebAPI\HRMS.Repository\obj\Debug\net6.0\refint\HRMS.Repository.dll
-F:\Projects\HRMS.WebAPI\HRMS.Repository\obj\Debug\net6.0\HRMS.Repository.pdb
-F:\Projects\HRMS.WebAPI\HRMS.Repository\obj\Debug\net6.0\ref\HRMS.Repository.dll
-D:\HRMS\HRMS.WebAPI\HRMS.WebAPI\HRMS.Repository\bin\Debug\net6.0\HRMS.Repository.deps.json
-D:\HRMS\HRMS.WebAPI\HRMS.WebAPI\HRMS.Repository\bin\Debug\net6.0\HRMS.Repository.dll
-D:\HRMS\HRMS.WebAPI\HRMS.WebAPI\HRMS.Repository\bin\Debug\net6.0\HRMS.Repository.pdb
-D:\HRMS\HRMS.WebAPI\HRMS.WebAPI\HRMS.Repository\obj\Debug\net6.0\HRMS.Repository.csproj.AssemblyReference.cache
-D:\HRMS\HRMS.WebAPI\HRMS.WebAPI\HRMS.Repository\obj\Debug\net6.0\HRMS.Repository.GeneratedMSBuildEditorConfig.editorconfig
-D:\HRMS\HRMS.WebAPI\HRMS.WebAPI\HRMS.Repository\obj\Debug\net6.0\HRMS.Repository.AssemblyInfoInputs.cache
-D:\HRMS\HRMS.WebAPI\HRMS.WebAPI\HRMS.Repository\obj\Debug\net6.0\HRMS.Repository.AssemblyInfo.cs
-D:\HRMS\HRMS.WebAPI\HRMS.WebAPI\HRMS.Repository\obj\Debug\net6.0\HRMS.Repository.csproj.CoreCompileInputs.cache
-D:\HRMS\HRMS.WebAPI\HRMS.WebAPI\HRMS.Repository\obj\Debug\net6.0\HRMS.Repository.dll
-D:\HRMS\HRMS.WebAPI\HRMS.WebAPI\HRMS.Repository\obj\Debug\net6.0\refint\HRMS.Repository.dll
-D:\HRMS\HRMS.WebAPI\HRMS.WebAPI\HRMS.Repository\obj\Debug\net6.0\HRMS.Repository.pdb
-D:\HRMS\HRMS.WebAPI\HRMS.WebAPI\HRMS.Repository\obj\Debug\net6.0\ref\HRMS.Repository.dll
-C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.Repository\bin\Debug\net6.0\HRMS.Repository.deps.json
-C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.Repository\bin\Debug\net6.0\HRMS.Repository.dll
-C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.Repository\bin\Debug\net6.0\HRMS.Repository.pdb
-C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.Repository\obj\Debug\net6.0\HRMS.Repository.csproj.AssemblyReference.cache
-C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.Repository\obj\Debug\net6.0\HRMS.Repository.GeneratedMSBuildEditorConfig.editorconfig
-C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.Repository\obj\Debug\net6.0\HRMS.Repository.AssemblyInfoInputs.cache
-C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.Repository\obj\Debug\net6.0\HRMS.Repository.AssemblyInfo.cs
-C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.Repository\obj\Debug\net6.0\HRMS.Repository.csproj.CoreCompileInputs.cache
-C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.Repository\obj\Debug\net6.0\HRMS.Repository.dll
-C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.Repository\obj\Debug\net6.0\refint\HRMS.Repository.dll
-C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.Repository\obj\Debug\net6.0\HRMS.Repository.pdb
-C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.Repository\obj\Debug\net6.0\ref\HRMS.Repository.dll
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.Repository\bin\Debug\net6.0\HRMS.Repository.deps.json
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.Repository\bin\Debug\net6.0\HRMS.Repository.dll
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.Repository\bin\Debug\net6.0\HRMS.Repository.pdb
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.Repository\obj\Debug\net6.0\HRMS.Repository.csproj.AssemblyReference.cache
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.Repository\obj\Debug\net6.0\HRMS.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.Repository\obj\Debug\net6.0\HRMS.Repository.AssemblyInfoInputs.cache
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.Repository\obj\Debug\net6.0\HRMS.Repository.AssemblyInfo.cs
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.Repository\obj\Debug\net6.0\HRMS.Repository.csproj.CoreCompileInputs.cache
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.Repository\obj\Debug\net6.0\HRMS.Repository.dll
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.Repository\obj\Debug\net6.0\refint\HRMS.Repository.dll
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.Repository\obj\Debug\net6.0\HRMS.Repository.pdb
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.Repository\obj\Debug\net6.0\ref\HRMS.Repository.dll

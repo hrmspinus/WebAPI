@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4P7X+Ajiem8AULxmQuLz/+slgOq4N7uTNLGW3lzY//k=",
+  "Source": "HRMS.WebAPI",
+  "BasePath": "_content/HRMS.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

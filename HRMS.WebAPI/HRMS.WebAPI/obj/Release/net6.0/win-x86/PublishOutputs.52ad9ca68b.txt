@@ -1,0 +1,7 @@
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\obj\Release\net6.0\win-x86\PubTmp\Out\appsettings.Development.json
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\obj\Release\net6.0\win-x86\PubTmp\Out\appsettings.json
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\obj\Release\net6.0\win-x86\PubTmp\Out\HRMS.WebAPI.pdb
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\obj\Release\net6.0\win-x86\PubTmp\Out\aspnetcorev2_inprocess.dll
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\obj\Release\net6.0\win-x86\PubTmp\Out\sni.dll
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\obj\Release\net6.0\win-x86\PubTmp\Out\HRMS.Repository.pdb
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\obj\Release\net6.0\win-x86\PubTmp\Out\HRMS.WebAPI.exe

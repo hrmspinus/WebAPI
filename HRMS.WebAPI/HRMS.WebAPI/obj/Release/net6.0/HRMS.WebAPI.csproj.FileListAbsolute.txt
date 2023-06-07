@@ -1,0 +1,108 @@
+C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\appsettings.Development.json
+C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\appsettings.json
+C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\HRMS.WebAPI.exe
+C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\HRMS.WebAPI.deps.json
+C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\HRMS.WebAPI.runtimeconfig.json
+C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\HRMS.WebAPI.dll
+C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\HRMS.WebAPI.pdb
+C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\Dapper.dll
+C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\Microsoft.Extensions.Configuration.dll
+C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\Microsoft.Extensions.Primitives.dll
+C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\System.Data.SqlClient.dll
+C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\System.Drawing.Common.dll
+C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\System.Security.Permissions.dll
+C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\System.Windows.Extensions.dll
+C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\runtimes\win-arm64\native\sni.dll
+C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\runtimes\win-x64\native\sni.dll
+C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\runtimes\win-x86\native\sni.dll
+C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\HRMS.Repository.dll
+C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\HRMS.Repository.pdb
+C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\obj\Release\net6.0\HRMS.WebAPI.csproj.AssemblyReference.cache
+C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\obj\Release\net6.0\HRMS.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\obj\Release\net6.0\HRMS.WebAPI.AssemblyInfoInputs.cache
+C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\obj\Release\net6.0\HRMS.WebAPI.AssemblyInfo.cs
+C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\obj\Release\net6.0\HRMS.WebAPI.csproj.CoreCompileInputs.cache
+C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\obj\Release\net6.0\HRMS.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\obj\Release\net6.0\HRMS.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\obj\Release\net6.0\staticwebassets\msbuild.HRMS.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\obj\Release\net6.0\staticwebassets\msbuild.build.HRMS.WebAPI.props
+C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.HRMS.WebAPI.props
+C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.HRMS.WebAPI.props
+C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\obj\Release\net6.0\staticwebassets.pack.json
+C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\obj\Release\net6.0\staticwebassets.build.json
+C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\obj\Release\net6.0\staticwebassets.development.json
+C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\obj\Release\net6.0\scopedcss\bundle\HRMS.WebAPI.styles.css
+C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\obj\Release\net6.0\HRMS.WebAPI.csproj.CopyComplete
+C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\obj\Release\net6.0\HRMS.WebAPI.dll
+C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\obj\Release\net6.0\refint\HRMS.WebAPI.dll
+C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\obj\Release\net6.0\HRMS.WebAPI.pdb
+C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\obj\Release\net6.0\HRMS.WebAPI.genruntimeconfig.cache
+C:\AK\Ui-Path\Pinus Project\HRMS\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\obj\Release\net6.0\ref\HRMS.WebAPI.dll
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\appsettings.Development.json
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\appsettings.json
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\HRMS.WebAPI.exe
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\HRMS.WebAPI.deps.json
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\HRMS.WebAPI.runtimeconfig.json
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\HRMS.WebAPI.dll
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\HRMS.WebAPI.pdb
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\Dapper.dll
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\Microsoft.Extensions.Configuration.dll
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\Microsoft.Extensions.Primitives.dll
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\Microsoft.OpenApi.dll
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\System.Data.SqlClient.dll
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\System.Drawing.Common.dll
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\System.Security.Permissions.dll
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\System.Windows.Extensions.dll
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\runtimes\win-arm64\native\sni.dll
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\runtimes\win-x64\native\sni.dll
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\runtimes\win-x86\native\sni.dll
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\HRMS.Repository.dll
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\bin\Release\net6.0\HRMS.Repository.pdb
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\obj\Release\net6.0\HRMS.WebAPI.csproj.AssemblyReference.cache
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\obj\Release\net6.0\HRMS.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\obj\Release\net6.0\HRMS.WebAPI.AssemblyInfoInputs.cache
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\obj\Release\net6.0\HRMS.WebAPI.AssemblyInfo.cs
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\obj\Release\net6.0\HRMS.WebAPI.csproj.CoreCompileInputs.cache
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\obj\Release\net6.0\HRMS.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\obj\Release\net6.0\HRMS.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\obj\Release\net6.0\staticwebassets\msbuild.HRMS.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\obj\Release\net6.0\staticwebassets\msbuild.build.HRMS.WebAPI.props
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.HRMS.WebAPI.props
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.HRMS.WebAPI.props
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\obj\Release\net6.0\staticwebassets.pack.json
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\obj\Release\net6.0\staticwebassets.build.json
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\obj\Release\net6.0\staticwebassets.development.json
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\obj\Release\net6.0\scopedcss\bundle\HRMS.WebAPI.styles.css
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\obj\Release\net6.0\HRMS.WebAPI.csproj.CopyComplete
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\obj\Release\net6.0\HRMS.WebAPI.dll
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\obj\Release\net6.0\refint\HRMS.WebAPI.dll
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\obj\Release\net6.0\HRMS.WebAPI.pdb
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\obj\Release\net6.0\HRMS.WebAPI.genruntimeconfig.cache
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.WebAPI\obj\Release\net6.0\ref\HRMS.WebAPI.dll

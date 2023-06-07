@@ -15,14 +15,16 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddSingleton<IConfiguration>(builder.Configuration);
 builder.Services.AddTransient<ILeaveTypeRepository, LeaveTypeRepository>();
 builder.Services.AddTransient<IDesignationRepository, DesignationRepository>();
+builder.Services.AddTransient<IDepartmentRepository, DepartmentRepository>();
 var app = builder.Build();
-
+app.UseCors(builder => builder
+     .AllowAnyOrigin()
+     .AllowAnyMethod()
+     .AllowAnyHeader()
+     );
 // Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
+app.UseSwagger();
+app.UseSwaggerUI();
 
 app.UseHttpsRedirection();
 

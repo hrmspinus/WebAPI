@@ -1,0 +1,12 @@
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.Repository\bin\Release\net6.0\HRMS.Repository.deps.json
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.Repository\bin\Release\net6.0\HRMS.Repository.dll
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.Repository\bin\Release\net6.0\HRMS.Repository.pdb
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.Repository\obj\Release\net6.0\HRMS.Repository.csproj.AssemblyReference.cache
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.Repository\obj\Release\net6.0\HRMS.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.Repository\obj\Release\net6.0\HRMS.Repository.AssemblyInfoInputs.cache
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.Repository\obj\Release\net6.0\HRMS.Repository.AssemblyInfo.cs
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.Repository\obj\Release\net6.0\HRMS.Repository.csproj.CoreCompileInputs.cache
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.Repository\obj\Release\net6.0\HRMS.Repository.dll
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.Repository\obj\Release\net6.0\refint\HRMS.Repository.dll
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.Repository\obj\Release\net6.0\HRMS.Repository.pdb
+E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.Repository\obj\Release\net6.0\ref\HRMS.Repository.dll
