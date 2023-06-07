@@ -24,7 +24,7 @@ namespace HRMS.Repository
         }
         public async Task<IEnumerable<Designation>> GetDesignations()
         {
-            var query = "SELECT * FROM EmployeeDesignation";
+            var query = "SELECT * FROM Designation";
             var connectionString = this.GetConnection();
             using (var connection = new SqlConnection(connectionString))
             {
