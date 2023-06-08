@@ -10,5 +10,6 @@ namespace HRMS.Repository
     {
         public int DepartmentId { get; set; }
         public string DepartmentName { get; set; }
+        public string CreatedBy { get; set; }
     }
 }

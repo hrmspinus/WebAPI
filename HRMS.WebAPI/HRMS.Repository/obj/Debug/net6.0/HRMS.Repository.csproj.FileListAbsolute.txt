@@ -10,3 +10,15 @@ E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.Repository\obj\Debug\net6.0\HRMS.Repository
 E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.Repository\obj\Debug\net6.0\refint\HRMS.Repository.dll
 E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.Repository\obj\Debug\net6.0\HRMS.Repository.pdb
 E:\hrms\HRMS WEBAPI\HRMS.WebAPI\HRMS.Repository\obj\Debug\net6.0\ref\HRMS.Repository.dll
+C:\AK\Ui-Path\Pinus Project\HRMS\WEBAPI HRMS NEW\HRMS.WebAPI\HRMS.Repository\bin\Debug\net6.0\HRMS.Repository.deps.json
+C:\AK\Ui-Path\Pinus Project\HRMS\WEBAPI HRMS NEW\HRMS.WebAPI\HRMS.Repository\bin\Debug\net6.0\HRMS.Repository.dll
+C:\AK\Ui-Path\Pinus Project\HRMS\WEBAPI HRMS NEW\HRMS.WebAPI\HRMS.Repository\bin\Debug\net6.0\HRMS.Repository.pdb
+C:\AK\Ui-Path\Pinus Project\HRMS\WEBAPI HRMS NEW\HRMS.WebAPI\HRMS.Repository\obj\Debug\net6.0\HRMS.Repository.csproj.AssemblyReference.cache
+C:\AK\Ui-Path\Pinus Project\HRMS\WEBAPI HRMS NEW\HRMS.WebAPI\HRMS.Repository\obj\Debug\net6.0\HRMS.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\AK\Ui-Path\Pinus Project\HRMS\WEBAPI HRMS NEW\HRMS.WebAPI\HRMS.Repository\obj\Debug\net6.0\HRMS.Repository.AssemblyInfoInputs.cache
+C:\AK\Ui-Path\Pinus Project\HRMS\WEBAPI HRMS NEW\HRMS.WebAPI\HRMS.Repository\obj\Debug\net6.0\HRMS.Repository.AssemblyInfo.cs
+C:\AK\Ui-Path\Pinus Project\HRMS\WEBAPI HRMS NEW\HRMS.WebAPI\HRMS.Repository\obj\Debug\net6.0\HRMS.Repository.csproj.CoreCompileInputs.cache
+C:\AK\Ui-Path\Pinus Project\HRMS\WEBAPI HRMS NEW\HRMS.WebAPI\HRMS.Repository\obj\Debug\net6.0\HRMS.Repository.dll
+C:\AK\Ui-Path\Pinus Project\HRMS\WEBAPI HRMS NEW\HRMS.WebAPI\HRMS.Repository\obj\Debug\net6.0\refint\HRMS.Repository.dll
+C:\AK\Ui-Path\Pinus Project\HRMS\WEBAPI HRMS NEW\HRMS.WebAPI\HRMS.Repository\obj\Debug\net6.0\HRMS.Repository.pdb
+C:\AK\Ui-Path\Pinus Project\HRMS\WEBAPI HRMS NEW\HRMS.WebAPI\HRMS.Repository\obj\Debug\net6.0\ref\HRMS.Repository.dll

@@ -7,5 +7,8 @@ by editing this MSBuild file. In order to learn more about this please visit htt
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
     <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA6+1VKwPtrUCVMdFyZLavbwAAAAACAAAAAAAQZgAAAAEAACAAAACjPJTMkgFtwutjoRzNSW+roUXvBHATeIQwGTVqVACb/wAAAAAOgAAAAAIAACAAAABTxrwBIE4Zh0+2m3eXURjDoJO68UpJ6fHNTiAfZ1ZQmSAAAACQazOCdNOQLgBPr1tOXVCxLHuW2JoN1McMoIWzsf6DbUAAAACB6ZWT6qbMFRbkr05xIOnLFaGdAe06cG2hqACGAnQ1FmXT69WPazs51C02NWSGYBxtp8t85q6J4W5XzueKRMSj</EncryptedPassword>
+    <_PublishTargetUrl>ftp://win5003.site4now.net:21/pinushrms</_PublishTargetUrl>
+    <History>False|2023-06-07T11:33:40.8642601Z;</History>
+    <LastFailureDetails />
   </PropertyGroup>
 </Project>

@@ -26,5 +26,13 @@ namespace HRMS.WebAPI.Controllers
             return _leavetyperepo.GetLeaveTypes();
           
         }
+
+        [HttpPost(Name = "CreateLeaveType")]
+        public int CreateLeaveType(LeaveType leaveType)
+        {
+            return _leavetyperepo.CreateLeaveType(leaveType.LeaveTypeName, leaveType.CreatedBy);
+
+        }
+
     }
 }

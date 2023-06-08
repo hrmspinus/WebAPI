@@ -16,6 +16,9 @@ builder.Services.AddSingleton<IConfiguration>(builder.Configuration);
 builder.Services.AddTransient<ILeaveTypeRepository, LeaveTypeRepository>();
 builder.Services.AddTransient<IDesignationRepository, DesignationRepository>();
 builder.Services.AddTransient<IDepartmentRepository, DepartmentRepository>();
+builder.Services.AddTransient<IAddressTypeRepository, AddressTypeRepository>();
+builder.Services.AddTransient<IApplyLeaveRepository, ApplyLeaveRepository>();
+builder.Services.AddTransient<IAppraisalRepository, AppraisalRepository>();
 var app = builder.Build();
 app.UseCors(builder => builder
      .AllowAnyOrigin()

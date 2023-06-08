@@ -1227,19 +1227,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mail2\\.nuget\\packages\\": {}
+    "C:\\Users\\abiyu\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\hrms\\HRMS WEBAPI\\HRMS.WebAPI\\HRMS.WebAPI\\HRMS.WebAPI.csproj",
+      "projectUniqueName": "C:\\AK\\Ui-Path\\Pinus Project\\HRMS\\WEBAPI HRMS NEW\\HRMS.WebAPI\\HRMS.WebAPI\\HRMS.WebAPI.csproj",
       "projectName": "HRMS.WebAPI",
-      "projectPath": "E:\\hrms\\HRMS WEBAPI\\HRMS.WebAPI\\HRMS.WebAPI\\HRMS.WebAPI.csproj",
-      "packagesPath": "C:\\Users\\mail2\\.nuget\\packages\\",
-      "outputPath": "E:\\hrms\\HRMS WEBAPI\\HRMS.WebAPI\\HRMS.WebAPI\\obj\\",
+      "projectPath": "C:\\AK\\Ui-Path\\Pinus Project\\HRMS\\WEBAPI HRMS NEW\\HRMS.WebAPI\\HRMS.WebAPI\\HRMS.WebAPI.csproj",
+      "packagesPath": "C:\\Users\\abiyu\\.nuget\\packages\\",
+      "outputPath": "C:\\AK\\Ui-Path\\Pinus Project\\HRMS\\WEBAPI HRMS NEW\\HRMS.WebAPI\\HRMS.WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mail2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\abiyu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1247,15 +1247,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.telerik.com/v3/index.json": {}
+        "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\hrms\\HRMS WEBAPI\\HRMS.WebAPI\\HRMS.Repository\\HRMS.Repository.csproj": {
-              "projectPath": "E:\\hrms\\HRMS WEBAPI\\HRMS.WebAPI\\HRMS.Repository\\HRMS.Repository.csproj"
+            "C:\\AK\\Ui-Path\\Pinus Project\\HRMS\\WEBAPI HRMS NEW\\HRMS.WebAPI\\HRMS.Repository\\HRMS.Repository.csproj": {
+              "projectPath": "C:\\AK\\Ui-Path\\Pinus Project\\HRMS\\WEBAPI HRMS NEW\\HRMS.WebAPI\\HRMS.Repository\\HRMS.Repository.csproj"
             }
           }
         }
@@ -1298,7 +1298,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -9,5 +9,6 @@ namespace HRMS.Repository
     public interface IDepartmentRepository
     {
         Task<IEnumerable<Department>> GetDepartments();
+        int CreateDepartmentType(string DepartmentName, string CreatedBy);
     }
 }

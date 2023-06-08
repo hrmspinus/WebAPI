@@ -10,5 +10,6 @@ namespace HRMS.Repository
     {
         public int AddressTypeID { get; set; }
         public string AddressTypeName { get; set; }
+        public string CreatedBy { get; set; }
     }
 }

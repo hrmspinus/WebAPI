@@ -9,6 +9,7 @@ namespace HRMS.Repository
     public interface ILeaveTypeRepository
     {
         Task<IEnumerable<LeaveType>> GetLeaveTypes();
+        int CreateLeaveType(string LeaveTypeName, string CreatedBy);
 
     }
 }
