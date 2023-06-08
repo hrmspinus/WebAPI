@@ -42,12 +42,12 @@ namespace HRMS.Repository
 
             var connectionString = this.GetConnection();
             var parameters = new DynamicParameters();
-            //parameters.Add(name: "@v_AddressTypeName", value: AddressTypeName, dbType: DbType.String, direction: ParameterDirection.Input);
-            //parameters.Add(name: "@v_CreatedBy", value: CreatedBy, dbType: DbType.String, direction: ParameterDirection.Input);
+            parameters.Add(name: "@v_DepartmentName", value: DepartmentName, dbType: DbType.String, direction: ParameterDirection.Input);
+            parameters.Add(name: "@v_CreatedBy", value: CreatedBy, dbType: DbType.String, direction: ParameterDirection.Input);
             var connection = new SqlConnection(connectionString);
 
 
-            return connection.Execute("[dbo].[usp_AddressTypeName_Insert]", parameters, commandType: CommandType.StoredProcedure);
+            return connection.Execute("[dbo].[usp_Department_Insert]", parameters, commandType: CommandType.StoredProcedure);
 
 
 

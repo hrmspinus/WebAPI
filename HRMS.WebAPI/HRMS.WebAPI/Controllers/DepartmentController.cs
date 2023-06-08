@@ -21,5 +21,12 @@ namespace HRMS.WebAPI.Controllers
             return _departmentrepo.GetDepartments();
 
         }
+
+        [HttpPost(Name = "CreateDepartmentType")]
+        public int CreateDepartmentType(Department department)
+        {
+            return _departmentrepo.CreateDepartmentType(department.DepartmentName, department.CreatedBy);
+
+        }
     }
 }

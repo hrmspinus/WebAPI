@@ -10,5 +10,6 @@ namespace HRMS.Repository
     public interface IDesignationRepository
     {
         Task<IEnumerable<Designation>> GetDesignations();
+        int CreateDesignationType(string DesignationName, string CreatedBy);
     }
 }

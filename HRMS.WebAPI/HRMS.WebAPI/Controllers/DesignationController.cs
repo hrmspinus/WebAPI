@@ -22,5 +22,12 @@ namespace HRMS.WebAPI.Controllers
             return _designationrepo.GetDesignations();
 
         }
+
+        [HttpPost(Name = "CreateDesignationType")]
+        public int CreateDesignationType(Designation designation)
+        {
+            return _designationrepo.CreateDesignationType(designation.DesignationName, designation.CreatedBy);
+
+        }
     }
 }
