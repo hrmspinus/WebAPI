@@ -19,6 +19,9 @@ builder.Services.AddTransient<IDepartmentRepository, DepartmentRepository>();
 builder.Services.AddTransient<IAddressTypeRepository, AddressTypeRepository>();
 builder.Services.AddTransient<IApplyLeaveRepository, ApplyLeaveRepository>();
 builder.Services.AddTransient<IAppraisalRepository, AppraisalRepository>();
+builder.Services.AddTransient<IHrmsRoleRepository, HrmsRoleRepository>();
+builder.Services.AddTransient<IHrmsUserRepository, HrmsUserRepository>();
+builder.Services.AddTransient<IHrmsPageRepository, HrmsPageRepository>();
 var app = builder.Build();
 app.UseCors(builder => builder
      .AllowAnyOrigin()

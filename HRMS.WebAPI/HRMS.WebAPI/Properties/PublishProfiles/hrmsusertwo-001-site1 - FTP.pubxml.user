@@ -6,9 +6,6 @@ by editing this MSBuild file. In order to learn more about this please visit htt
 <Project>
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA6+1VKwPtrUCVMdFyZLavbwAAAAACAAAAAAAQZgAAAAEAACAAAACjPJTMkgFtwutjoRzNSW+roUXvBHATeIQwGTVqVACb/wAAAAAOgAAAAAIAACAAAABTxrwBIE4Zh0+2m3eXURjDoJO68UpJ6fHNTiAfZ1ZQmSAAAACQazOCdNOQLgBPr1tOXVCxLHuW2JoN1McMoIWzsf6DbUAAAACB6ZWT6qbMFRbkr05xIOnLFaGdAe06cG2hqACGAnQ1FmXT69WPazs51C02NWSGYBxtp8t85q6J4W5XzueKRMSj</EncryptedPassword>
-    <_PublishTargetUrl>ftp://win5003.site4now.net:21/pinushrms</_PublishTargetUrl>
-    <History>False|2023-06-07T11:33:40.8642601Z;</History>
-    <LastFailureDetails />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAApfkSHZrGtE2J551JS3gEJwAAAAACAAAAAAAQZgAAAAEAACAAAABApg8FHBgZCuBzLavMh//RAz3NwTyx9n0OapdyQSjEwAAAAAAOgAAAAAIAACAAAACaupaz4R5iuVfwOG8T7fflHx/x9wNFd5pFp7ndcH+h8SAAAAB8v+aYXCWlbOcO0FCvqOeYiNAHjnGjtmfMz0BTfGmYfkAAAACtPtwAE2+Y3UYTPBPBUsTwcF0of47lYk4virVrJr1wUa7k2KvxjKFh0puSSc2hU8APoBpjT+ZmEprQJpJopllO</EncryptedPassword>
   </PropertyGroup>
 </Project>

@@ -30,5 +30,6 @@ namespace HRMS.Repository
         public string Email { get; set; }
         public string Website { get; set; }
         public string Remark { get; set; }
+        public string CreatedBy { get; set; }
     }
 }
