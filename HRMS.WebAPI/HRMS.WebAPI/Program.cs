@@ -22,6 +22,10 @@ builder.Services.AddTransient<IAppraisalRepository, AppraisalRepository>();
 builder.Services.AddTransient<IHrmsRoleRepository, HrmsRoleRepository>();
 builder.Services.AddTransient<IHrmsUserRepository, HrmsUserRepository>();
 builder.Services.AddTransient<IHrmsPageRepository, HrmsPageRepository>();
+builder.Services.AddTransient<IBloodGroupRepository, BloodGroupRepository>();
+builder.Services.AddTransient<IClaimTypeRepository, ClaimTypeRepository>();
+builder.Services.AddTransient<ILocationRepository, LocationRepository>();
+builder.Services.AddTransient<IRelationShipRepository, RelationShipRepository>();
 var app = builder.Build();
 app.UseCors(builder => builder
      .AllowAnyOrigin()

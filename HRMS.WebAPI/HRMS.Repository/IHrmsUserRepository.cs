@@ -9,6 +9,6 @@ namespace HRMS.Repository
     public interface IHrmsUserRepository 
     {
         Task<IEnumerable<HrmsUser>> GetHrmsUsers();
-        int CreateHrmsUser(string UserName,string FirstName,string LastName, string MiddleName,int RoleID, string CreatedBy);
+        int CreateHrmsUser(string UserName,string FirstName,string LastName, string MiddleName,string RoleName,int RoleID, string CreatedBy);
     }
 }

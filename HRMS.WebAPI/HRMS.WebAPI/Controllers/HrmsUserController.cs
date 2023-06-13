@@ -26,7 +26,7 @@ namespace HRMS.WebAPI.Controllers
         public int CreateHrmsUser(HrmsUser hrmsUser)
         {
             return _hrmsuserrepo.CreateHrmsUser(hrmsUser.UserName,hrmsUser.FirstName,hrmsUser.LastName,hrmsUser.MiddleName,
-                hrmsUser.RoleID, hrmsUser.CreatedBy);
+                hrmsUser.RoleName,hrmsUser.RoleID, hrmsUser.CreatedBy);
 
         }
 

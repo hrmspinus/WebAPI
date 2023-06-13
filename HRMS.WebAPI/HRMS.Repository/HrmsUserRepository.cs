@@ -38,7 +38,7 @@ namespace HRMS.Repository
         }
 
 
-        public int CreateHrmsUser(string UserName, string FirstName, string LastName, string MiddleName, int RoleID, string CreatedBy)
+        public int CreateHrmsUser(string UserName, string FirstName, string LastName, string MiddleName,string RoleName, int RoleID, string CreatedBy)
         {
 
             var connectionString = this.GetConnection();
@@ -47,14 +47,13 @@ namespace HRMS.Repository
             parameters.Add(name: "@v_FirstName", value: FirstName, dbType: DbType.String, direction: ParameterDirection.Input);
             parameters.Add(name: "@v_LastName", value: LastName, dbType: DbType.String, direction: ParameterDirection.Input);
             parameters.Add(name: "@v_MiddleName", value: MiddleName, dbType: DbType.String, direction: ParameterDirection.Input);
-            parameters.Add(name: "@v_RoleID", value: RoleID, dbType: DbType.Int16, direction: ParameterDirection.Input);
+            parameters.Add(name: "@v_RoleName", value: RoleName, dbType: DbType.String, direction: ParameterDirection.Input);
+            parameters.Add(name: "@i_RoleID", value: RoleID, dbType: DbType.Int16, direction: ParameterDirection.Input);
             parameters.Add(name: "@v_CreatedBy", value: CreatedBy, dbType: DbType.String, direction: ParameterDirection.Input);
             var connection = new SqlConnection(connectionString);
 
 
             return connection.Execute("[dbo].[usp_HrmsUser_Insert]", parameters, commandType: CommandType.StoredProcedure);
-
-
 
         }
     }
