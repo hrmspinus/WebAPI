@@ -18,7 +18,7 @@ builder.Services.AddTransient<IDesignationRepository, DesignationRepository>();
 builder.Services.AddTransient<IDepartmentRepository, DepartmentRepository>();
 builder.Services.AddTransient<IAddressTypeRepository, AddressTypeRepository>();
 builder.Services.AddTransient<IApplyLeaveRepository, ApplyLeaveRepository>();
-builder.Services.AddTransient<IAppraisalRepository, AppraisalRepository>();
+builder.Services.AddTransient<IAppraisalObjectivesRepository, AppraisalObjectivesRepository>();
 builder.Services.AddTransient<IHrmsRoleRepository, HrmsRoleRepository>();
 builder.Services.AddTransient<IHrmsUserRepository, HrmsUserRepository>();
 builder.Services.AddTransient<IHrmsPageRepository, HrmsPageRepository>();

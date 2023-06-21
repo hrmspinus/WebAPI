@@ -10,7 +10,7 @@ namespace HRMS.WebAPI.Controllers
         private static readonly string[] Summaries = new[]
         {
         "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
-    };
+        };
 
         private readonly ILogger<LeaveTypeController> _logger;
         private ILeaveTypeRepository _leavetyperepo;

@@ -6,11 +6,10 @@ using System.Threading.Tasks;
 
 namespace HRMS.Repository
 {
-    public class Appraisal
+    public class AppraisalObjectives
     {
         public int AppraisalID { get; set; }
-        public int EmployeeID { get; set; }
-        public string Weightage { get; set; }
-        public int DesignationID { get; set; }
+        public string AppraisalName { get; set; }
+        public string CreatedBy { get; set; }
     }
 }
