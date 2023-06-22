@@ -48,8 +48,32 @@ namespace HRMS.Repository
 
 
             return connection.Execute("[dbo].[usp_ClaimType_Insert]", parameters, commandType: CommandType.StoredProcedure);
+        }
+
+        public int DeleteClaimType(int ClaimTypeID)
+        {
+
+            var connectionString = this.GetConnection();
+            var parameters = new DynamicParameters();
+            parameters.Add(name: "@i_ClaimTypeID", value: ClaimTypeID, dbType: DbType.Int16, direction: ParameterDirection.Input);
+            var connection = new SqlConnection(connectionString);
 
 
+            return connection.Execute("[dbo].[usp_ClaimType_Delete]", parameters, commandType: CommandType.StoredProcedure);
+        }
+
+        public int UpdateClaimType(int ClaimTypeID, string ClaimTypeName, string CreatedBy)
+        {
+
+            var connectionString = this.GetConnection();
+            var parameters = new DynamicParameters();
+            parameters.Add(name: "@i_ClaimTypeID", value: ClaimTypeID, dbType: DbType.Int16, direction: ParameterDirection.Input);
+            parameters.Add(name: "@v_ClaimTypeName", value: ClaimTypeName, dbType: DbType.String, direction: ParameterDirection.Input);
+            parameters.Add(name: "@v_CreatedBy", value: CreatedBy, dbType: DbType.String, direction: ParameterDirection.Input);
+            var connection = new SqlConnection(connectionString);
+
+
+            return connection.Execute("[dbo].[usp_ClaimType_Update]", parameters, commandType: CommandType.StoredProcedure);
 
         }
     }

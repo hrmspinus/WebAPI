@@ -29,10 +29,16 @@ namespace HRMS.WebAPI.Controllers
 
         }
 
-        //[HttpDelete(Name = "DeleteHrmsRole")]
-        //public int DeleteHrmsRole(HrmsRole hrmsRole)
-        //{
-        //    return _hrmsrolerepo.DeleteHrmsrole(hrmsRole.RoleID);
-        //}
+        [HttpDelete(Name = "DeleteHrmsRole")]
+        public int DeleteHrmsRole(int RoleID)
+        {
+            return _hrmsrolerepo.DeleteHrmsRole(RoleID);
+        }
+
+        [HttpPut(Name = "UpdateHrmsRole")]
+        public int UpdateHrmsRole(HrmsRole hrmsRole)
+        {
+            return _hrmsrolerepo.UpdateHrmsRole(hrmsRole.RoleID,hrmsRole.RoleName, hrmsRole.CreatedBy);
+        }
     }
 }

@@ -50,6 +50,36 @@ namespace HRMS.Repository
 
             return connection.Execute("[dbo].[usp_AddressTypeName_Insert]", parameters, commandType: CommandType.StoredProcedure);
 
+        }
+
+        public int DeleteAddressType(int AddressTypeID)
+        {
+
+            var connectionString = this.GetConnection();
+            var parameters = new DynamicParameters();
+            parameters.Add(name: "@i_AddressTypeID", value: AddressTypeID, dbType: DbType.Int16, direction: ParameterDirection.Input);
+            var connection = new SqlConnection(connectionString);
+
+
+            return connection.Execute("[dbo].[usp_AddressType_Delete]", parameters, commandType: CommandType.StoredProcedure);
+
+
+
+        }
+
+        public int UpdateAddressType(int AddressTypeID, string AddressTypeName, string CreatedBy)
+        {
+
+            var connectionString = this.GetConnection();
+            var parameters = new DynamicParameters();
+            parameters.Add(name: "@i_AddressTypeID", value: AddressTypeID, dbType: DbType.Int16, direction: ParameterDirection.Input);
+            parameters.Add(name: "@v_AddressTypeName", value: AddressTypeName, dbType: DbType.String, direction: ParameterDirection.Input);
+            parameters.Add(name: "@v_CreatedBy", value: CreatedBy, dbType: DbType.String, direction: ParameterDirection.Input);
+            var connection = new SqlConnection(connectionString);
+
+
+            return connection.Execute("[dbo].[usp_AddressType_Update]", parameters, commandType: CommandType.StoredProcedure);
+
 
 
         }

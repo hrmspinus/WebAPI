@@ -26,7 +26,18 @@ namespace HRMS.WebAPI.Controllers
         public int CreateDepartmentType(Department department)
         {
             return _departmentrepo.CreateDepartmentType(department.DepartmentName, department.CreatedBy);
+        }
 
+        [HttpDelete(Name = "DeleteDepartment")]
+        public int DeleteDepartment(int DepartmentID)
+        {
+            return _departmentrepo.DeleteDepartment(DepartmentID);
+        }
+
+        [HttpPut(Name = "UpdateDepartment")]
+        public int UpdateDepartment(Department department)
+        {
+            return _departmentrepo.UpdateDepartment(department.DepartmentID, department.DepartmentName, department.CreatedBy);
         }
     }
 }

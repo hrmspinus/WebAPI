@@ -26,7 +26,18 @@ namespace HRMS.WebAPI.Controllers
         public int CreateClaimType(ClaimType claimType)
         {
             return _claimtyperepo.CreateClaimType(claimType.ClaimTypeName, claimType.CreatedBy);
+        }
 
+        [HttpDelete(Name = "DeleteClaimType")]
+        public int DeleteClaimType(int ClaimTypeID)
+        {
+            return _claimtyperepo.DeleteClaimType(ClaimTypeID);
+        }
+
+        [HttpPut(Name = "UpdateClaimType")]
+        public int UpdateClaimType(ClaimType claimType)
+        {
+            return _claimtyperepo.UpdateClaimType(claimType.ClaimTypeID, claimType.ClaimTypeName, claimType.CreatedBy);
         }
     }
 }

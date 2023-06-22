@@ -10,5 +10,7 @@ namespace HRMS.Repository
     {
         Task<IEnumerable<AddressType>> GetAddressTypes();
         int CreateAddressType(string AddressTypeName, string CreatedBy);
+        int DeleteAddressType(int AddressTypeId);
+        int UpdateAddressType(int AddressTypeID, string AddressTypeName, string CreatedBy);
     }
 }

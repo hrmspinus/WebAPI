@@ -28,5 +28,17 @@ namespace HRMS.WebAPI.Controllers
             return _addresstyperepo.CreateAddressType(addressType.AddressTypeName, addressType.CreatedBy);
 
         }
+
+        [HttpDelete(Name = "DeleteAddressType")]
+        public int DeleteAddressType(int AddressTypeID)
+        {
+            return _addresstyperepo.DeleteAddressType(AddressTypeID);
+        }
+
+        [HttpPut(Name = "UpdateAddressType")]
+        public int UpdateAddressType(AddressType addressType)
+        {
+            return _addresstyperepo.UpdateAddressType(addressType.AddressTypeID, addressType.AddressTypeName, addressType.CreatedBy);
+        }
     }
 }

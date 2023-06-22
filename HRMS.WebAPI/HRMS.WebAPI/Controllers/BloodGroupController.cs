@@ -26,7 +26,18 @@ namespace HRMS.WebAPI.Controllers
         public int CreateBloodGroup(BloodGroup bloodGroup)
         {
             return _bloodgrouprepo.CreateBloodGroup(bloodGroup.BloodGroupName, bloodGroup.CreatedBy);
+        }
 
+        [HttpDelete(Name = "DeleteBloodGroup")]
+        public int DeleteBloodGroup(int BloodGroupID)
+        {
+            return _bloodgrouprepo.DeleteBloodGroup(BloodGroupID);
+        }
+
+        [HttpPut(Name = "UpdateBloodGroup")]
+        public int UpdateBloodGroup(BloodGroup bloodGroup)
+        {
+            return _bloodgrouprepo.UpdateBloodGroup(bloodGroup.BloodGroupID, bloodGroup.BloodGroupName, bloodGroup.CreatedBy);
         }
     }
 }

@@ -10,5 +10,7 @@ namespace HRMS.Repository
     {
         Task<IEnumerable<Department>> GetDepartments();
         int CreateDepartmentType(string DepartmentName, string CreatedBy);
+        int DeleteDepartment(int DepartmentID);
+        int UpdateDepartment(int DepartmentID, string DepartmentName, string CreatedBy);
     }
 }

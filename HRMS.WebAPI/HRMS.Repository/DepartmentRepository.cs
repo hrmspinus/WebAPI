@@ -34,7 +34,6 @@ namespace HRMS.Repository
                 connection.Close();
                 return departments.ToList();
             }
-
         }
 
         public int CreateDepartmentType(string DepartmentName, string CreatedBy)
@@ -48,9 +47,32 @@ namespace HRMS.Repository
 
 
             return connection.Execute("[dbo].[usp_Department_Insert]", parameters, commandType: CommandType.StoredProcedure);
+        }
+
+        public int DeleteDepartment(int DepartmentID)
+        {
+
+            var connectionString = this.GetConnection();
+            var parameters = new DynamicParameters();
+            parameters.Add(name: "@i_DepartmentID", value: DepartmentID, dbType: DbType.Int16, direction: ParameterDirection.Input);
+            var connection = new SqlConnection(connectionString);
 
 
+            return connection.Execute("[dbo].[usp_Department_Delete]", parameters, commandType: CommandType.StoredProcedure);
+        }
 
+        public int UpdateDepartment(int DepartmentID, string DepartmentName, string CreatedBy)
+        {
+
+            var connectionString = this.GetConnection();
+            var parameters = new DynamicParameters();
+            parameters.Add(name: "@i_DepartmentID", value: DepartmentID, dbType: DbType.Int16, direction: ParameterDirection.Input);
+            parameters.Add(name: "@v_DepartmentName", value: DepartmentName, dbType: DbType.String, direction: ParameterDirection.Input);
+            parameters.Add(name: "@v_CreatedBy", value: CreatedBy, dbType: DbType.String, direction: ParameterDirection.Input);
+            var connection = new SqlConnection(connectionString);
+
+
+            return connection.Execute("[dbo].[usp_Department_Update]", parameters, commandType: CommandType.StoredProcedure);
         }
     }
 }

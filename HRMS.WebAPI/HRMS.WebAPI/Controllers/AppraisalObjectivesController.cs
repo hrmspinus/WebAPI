@@ -26,7 +26,18 @@ namespace HRMS.WebAPI.Controllers
         public int CreateAppraisalObjectives(AppraisalObjectives appraisalObjectives)
         {
             return _appraisalobjectivesrepo.CreateAppraisalObjectives(appraisalObjectives.AppraisalName, appraisalObjectives.CreatedBy);
+        }
 
+        [HttpDelete(Name = "DeleteAppraisalObjectives")]
+        public int DeleteAppraisalObjectives(int AppraisalID)
+        {
+            return _appraisalobjectivesrepo.DeleteAppraisalObjectives(AppraisalID);
+        }
+
+        [HttpPut(Name = "UpdateAppraisalObjectives")]
+        public int UpdateAppraisalObjectives(AppraisalObjectives appraisalObjectives)
+        {
+            return _appraisalobjectivesrepo.UpdateAppraisalObjectives(appraisalObjectives.AppraisalID, appraisalObjectives.AppraisalName, appraisalObjectives.CreatedBy);
         }
     }
 }

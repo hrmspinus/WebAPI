@@ -10,5 +10,7 @@ namespace HRMS.Repository
     {
         Task<IEnumerable<BloodGroup>> GetBloodGroups();
         int CreateBloodGroup(string BloodGroupName, string CreatedBy);
+        int DeleteBloodGroup(int BloodGroupID);
+        int UpdateBloodGroup(int BloodGroupID, string BloodGroupName, string CreatedBy);
     }
 }

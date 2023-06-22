@@ -48,6 +48,32 @@ namespace HRMS.Repository
 
 
             return connection.Execute("[dbo].[usp_AppraisalObjectives_Insert]", parameters, commandType: CommandType.StoredProcedure);
+        }
+
+        public int DeleteAppraisalObjectives(int AppraisalID)
+        {
+
+            var connectionString = this.GetConnection();
+            var parameters = new DynamicParameters();
+            parameters.Add(name: "@i_AppraisalID", value: AppraisalID, dbType: DbType.Int16, direction: ParameterDirection.Input);
+            var connection = new SqlConnection(connectionString);
+
+
+            return connection.Execute("[dbo].[usp_AppraisalObjectives_Delete]", parameters, commandType: CommandType.StoredProcedure);
+        }
+
+        public int UpdateAppraisalObjectives(int AppraisalID, string AppraisalName, string CreatedBy)
+        {
+
+            var connectionString = this.GetConnection();
+            var parameters = new DynamicParameters();
+            parameters.Add(name: "@i_AppraisalID", value: AppraisalID, dbType: DbType.Int16, direction: ParameterDirection.Input);
+            parameters.Add(name: "@v_AppraisalName", value: AppraisalName, dbType: DbType.String, direction: ParameterDirection.Input);
+            parameters.Add(name: "@v_CreatedBy", value: CreatedBy, dbType: DbType.String, direction: ParameterDirection.Input);
+            var connection = new SqlConnection(connectionString);
+
+
+            return connection.Execute("[dbo].[usp_AppraisalObjectives_Update]", parameters, commandType: CommandType.StoredProcedure);
 
 
 

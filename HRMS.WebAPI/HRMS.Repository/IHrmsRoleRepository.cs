@@ -10,6 +10,7 @@ namespace HRMS.Repository
     {
         Task<IEnumerable<HrmsRole>> GetHrmsRoles();
         int CreateHrmsRole(string RoleName, string CreatedBy);
-        //int DeleteHrmsrole(int roleid);
+        int DeleteHrmsRole(int RoleID);
+        int UpdateHrmsRole(int RoleID,string RoleName, string CreatedBy);
     }
 }

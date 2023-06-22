@@ -10,5 +10,7 @@ namespace HRMS.Repository
     {
         Task<IEnumerable<ClaimType>> GetClaimTypes();
         int CreateClaimType(string ClaimTypeName, string CreatedBy);
+        int DeleteClaimType(int ClaimTypeID);
+        int UpdateClaimType(int ClaimTypeID, string ClaimTypeName, string CreatedBy);
     }
 }
