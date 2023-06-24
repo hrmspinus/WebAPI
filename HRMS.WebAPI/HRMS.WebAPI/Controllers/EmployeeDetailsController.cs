@@ -25,13 +25,7 @@ namespace HRMS.WebAPI.Controllers
         [HttpPost(Name = "CreateEmployeeDetails")]
         public int CreateEmployeeDetails(EmployeeDetails employeeDetails)
         {
-            return _employeedetailsrepo.CreateEmployeeDetails(employeeDetails.OrganisationID,employeeDetails.AutoNumber,
-                employeeDetails.FirstName,employeeDetails.MiddleName,employeeDetails.LastName,employeeDetails.DateOfBirth,
-                employeeDetails.Age,employeeDetails.Gender,employeeDetails.Email,employeeDetails.PhoneNumber,
-                employeeDetails.EmergencyContactNumber,employeeDetails.Location,employeeDetails.MaritalStatus,
-                employeeDetails.HireDate,employeeDetails.LengthOfService,employeeDetails.FTE,employeeDetails.ManagerID,
-                employeeDetails.BusinessTitleID,employeeDetails.DepartmentID,employeeDetails.DesignationID,employeeDetails.BloodGroupID,
-                employeeDetails.CreatedBy,employeeDetails.ModifiedBy);
+            return _employeedetailsrepo.CreateEmployeeDetails(employeeDetails);
         }
     }
 }
