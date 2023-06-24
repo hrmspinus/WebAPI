@@ -27,6 +27,8 @@ builder.Services.AddTransient<IClaimTypeRepository, ClaimTypeRepository>();
 builder.Services.AddTransient<ILocationRepository, LocationRepository>();
 builder.Services.AddTransient<IRelationShipRepository, RelationShipRepository>();
 builder.Services.AddTransient<IEmployeeDetailsRepository, EmployeeDetailsRepository>();
+builder.Services.AddTransient<IEmployeeExperienceRepository, EmployeeExperienceRepository>();
+builder.Services.AddTransient<IEmployeeFamilyDetailsRepository, EmployeeFamilyDetailsRepository>();
 var app = builder.Build();
 app.UseCors(builder => builder
      .AllowAnyOrigin()

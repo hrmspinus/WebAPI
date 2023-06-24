@@ -1,6 +1,8 @@
-﻿using System;
+﻿using Microsoft.VisualBasic;
+using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -20,6 +22,16 @@ namespace HRMS.Repository
         public string EmergencyContactNumber { get; set; }
         public string Location { get; set; }
         public string MaritalStatus { get; set; }
+        public DateTime HireDate { get; set; }
+        public int LengthOfService { get; set; }
+        public int FTE { get; set; }
+        public int ManagerID { get; set; }
+        public int BusinessTitleID { get; set; }
+        public int DepartmentID { get; set; }
+        public int DesignationID { get; set; }
+        public int BloodGroupID { get; set; }
+        public string CreatedBy { get; set; }
+        public string ModifiedBy { get; set; }
 
     }
 }

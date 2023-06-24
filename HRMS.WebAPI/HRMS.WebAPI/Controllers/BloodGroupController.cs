@@ -5,7 +5,7 @@ namespace HRMS.WebAPI.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class BloodGroupController : Controller
+    public class BloodGroupController : ControllerBase
     {
         private readonly ILogger<BloodGroupController> _logger;
         private IBloodGroupRepository _bloodgrouprepo;

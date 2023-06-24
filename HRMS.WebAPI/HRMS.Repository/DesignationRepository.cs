@@ -48,9 +48,6 @@ namespace HRMS.Repository
 
 
             return connection.Execute("[dbo].[usp_Designation_Insert]", parameters, commandType: CommandType.StoredProcedure);
-
-
-
         }
     }
 }
