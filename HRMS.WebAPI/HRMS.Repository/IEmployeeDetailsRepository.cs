@@ -8,7 +8,8 @@ namespace HRMS.Repository
 {
     public interface IEmployeeDetailsRepository
     {
-        Task<IEnumerable<EmployeeDetails>> GetEmployeeDetails();
+        Task<IEnumerable<EmployeeDetails>> GetEmployeeDetails(int EmployeeID);
+        Task<IEnumerable<EmployeeDetails>> GetAllEmployeeDetails();
         int CreateEmployeeDetails(EmployeeDetails empDetails);
     }
 }

@@ -9,7 +9,7 @@ namespace HRMS.Repository
     public class Department
     {
         public int DepartmentID { get; set; }
-        public string DepartmentName { get; set; }
-        public string CreatedBy { get; set; }
+        public string? DepartmentName { get; set; }
+        public string? CreatedBy { get; set; }
     }
 }

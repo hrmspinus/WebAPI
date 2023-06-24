@@ -23,16 +23,37 @@ namespace HRMS.Repository
             var connection = _configuration.GetSection("ConnectionStrings").GetSection("DefaultConnection").Value;
             return connection;
         }
-        public async Task<IEnumerable<EmployeeDetails>> GetEmployeeDetails()
+        public async Task<IEnumerable<EmployeeDetails>> GetEmployeeDetails(int EmployeeID)
         {
-            var query = "SELECT * FROM EmployeeDetail";
+           
             var connectionString = this.GetConnection();
             using (var connection = new SqlConnection(connectionString))
             {
                 connection.Open();
-                var employeedetails = await connection.QueryAsync<EmployeeDetails>("[dbo].[usp_EmployeeDetail_Select]", null,commandType: CommandType.StoredProcedure); ;
+                var parameters = new DynamicParameters();
+                parameters.Add(name: "@i_EmployeeID", value: EmployeeID, dbType: DbType.Int16, direction: ParameterDirection.Input);
+                var employeedetails = await connection.QueryAsync<EmployeeDetails>("[dbo].[usp_EmployeeDetail_Select]", parameters, commandType: CommandType.StoredProcedure); ;
 
               
+
+                connection.Close();
+                return employeedetails.ToList();
+            }
+
+        }
+
+
+
+        public async Task<IEnumerable<EmployeeDetails>> GetAllEmployeeDetails()
+        {
+            
+            var connectionString = this.GetConnection();
+            using (var connection = new SqlConnection(connectionString))
+            {
+                connection.Open();
+                var employeedetails = await connection.QueryAsync<EmployeeDetails>("[dbo].[usp_EmployeeDetail_Select]", null, commandType: CommandType.StoredProcedure); ;
+
+
 
                 connection.Close();
                 return employeedetails.ToList();

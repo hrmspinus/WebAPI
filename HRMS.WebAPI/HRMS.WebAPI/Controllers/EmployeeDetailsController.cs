@@ -15,13 +15,20 @@ namespace HRMS.WebAPI.Controllers
             _employeedetailsrepo = employeedetailsrepo;
         }
 
-        [HttpGet(Name = "GetEmployeeDetails")]
-        public Task<IEnumerable<EmployeeDetails>> GetEmployeeDetails()
+        [HttpGet("GetEmployeeDetails")]
+        public Task<IEnumerable<EmployeeDetails>> GetEmployeeDetails(int EmployeeID)
         {
-            return _employeedetailsrepo.GetEmployeeDetails();
+            return _employeedetailsrepo.GetEmployeeDetails(EmployeeID);
 
         }
 
+
+        [HttpGet("GetAllEmployeeDetails")]
+        public Task<IEnumerable<EmployeeDetails>> GetAllEmployeeDetails()
+        {
+            return _employeedetailsrepo.GetAllEmployeeDetails();
+
+        }
         [HttpPost(Name = "CreateEmployeeDetails")]
         public int CreateEmployeeDetails(EmployeeDetails employeeDetails)
         {
