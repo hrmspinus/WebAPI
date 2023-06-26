@@ -9,7 +9,7 @@ namespace HRMS.Repository
     public class HrmsRole
     {
         public int RoleID { get; set; }
-        public string RoleName { get; set; }
-        public string CreatedBy { get; set; }
+        public string? RoleName { get; set; }
+        public string? CreatedBy { get; set; }
     }
 }

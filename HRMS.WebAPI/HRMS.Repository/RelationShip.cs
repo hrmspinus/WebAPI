@@ -9,7 +9,7 @@ namespace HRMS.Repository
     public class RelationShip
     {
         public int RelationShipID { get; set; }
-        public string RelationShipName { get; set;}
-        public string CreatedBy { get; set; }
+        public string? RelationShipName { get; set;}
+        public string? CreatedBy { get; set; }
     }
 }

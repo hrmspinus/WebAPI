@@ -29,10 +29,29 @@ namespace HRMS.WebAPI.Controllers
             return _employeedetailsrepo.GetAllEmployeeDetails();
 
         }
+
         [HttpPost(Name = "CreateEmployeeDetails")]
-        public int CreateEmployeeDetails(EmployeeDetails employeeDetails)
+        public int CreateEmployeeDetails(EmployeeDetails empDetails)
         {
-            return _employeedetailsrepo.CreateEmployeeDetails(employeeDetails);
+            return _employeedetailsrepo.CreateEmployeeDetails(empDetails);
+
         }
+
+
+        [HttpDelete("GetDeleteEmployeeDetails")]
+        public Task<IEnumerable<EmployeeDetails>> GetDeleteEmployeeDetails(int EmployeeID)
+        {
+            return _employeedetailsrepo.GetDeleteEmployeeDetails(EmployeeID);
+
+        }
+
+
+        [HttpPut(Name = "UpdateEmployeeDetails")]
+        public int UpdateEmployeeDetails(EmployeeDetails empDetails)
+        {
+            return _employeedetailsrepo.UpdateEmployeeDetails(empDetails);
+
+        }
+
     }
 }

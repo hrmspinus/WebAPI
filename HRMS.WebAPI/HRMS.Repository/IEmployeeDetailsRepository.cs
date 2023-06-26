@@ -11,5 +11,8 @@ namespace HRMS.Repository
         Task<IEnumerable<EmployeeDetails>> GetEmployeeDetails(int EmployeeID);
         Task<IEnumerable<EmployeeDetails>> GetAllEmployeeDetails();
         int CreateEmployeeDetails(EmployeeDetails empDetails);
+        Task<IEnumerable<EmployeeDetails>> GetDeleteEmployeeDetails(int EmployeeID);
+        int UpdateEmployeeDetails(EmployeeDetails empDetails);
+
     }
 }

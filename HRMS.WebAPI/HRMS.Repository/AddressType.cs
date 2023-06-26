@@ -9,7 +9,7 @@ namespace HRMS.Repository
     public class AddressType
     {
         public int AddressTypeID { get; set; }
-        public string AddressTypeName { get; set; }
-        public string CreatedBy { get; set; }
+        public string? AddressTypeName { get; set; }
+        public string? CreatedBy { get; set; }
     }
 }

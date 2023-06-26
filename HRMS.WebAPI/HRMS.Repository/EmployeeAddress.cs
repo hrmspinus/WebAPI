@@ -11,8 +11,8 @@ namespace HRMS.Repository
         public int EmployeeAddressID { get; set; }
         public int EmployeeID { get; set; }   
         public int AddressTypeID { get; set; }
-        public string AddressName { get; set; }
+        public string? AddressName { get; set; }
         public int DesignationID { get; set; }
-        public string CreatedBy { get; set; }
+        public string? CreatedBy { get; set; }
     }
 }

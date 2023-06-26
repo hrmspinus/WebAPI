@@ -10,7 +10,7 @@ namespace HRMS.Repository
     {
         public int LeaveTypeId { get; set; }
 
-        public string LeaveTypeName { get; set; }
-        public string CreatedBy { get; set; }
+        public string? LeaveTypeName { get; set; }
+        public string? CreatedBy { get; set; }
     }
 }

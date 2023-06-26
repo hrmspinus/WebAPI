@@ -9,8 +9,8 @@ namespace HRMS.Repository
     public class HrmsPage
     {
         public int PageID { get; set; }
-        public string PageName { get; set; }
+        public string? PageName { get; set; }
         public int RoleID { get; set; }
-        public string CreatedBy { get; set; }
+        public string? CreatedBy { get; set; }
     }
 }
