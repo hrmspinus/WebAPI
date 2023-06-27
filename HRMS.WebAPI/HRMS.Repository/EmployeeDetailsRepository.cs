@@ -87,6 +87,7 @@ namespace HRMS.Repository
             var parameters = new DynamicParameters();
             parameters.Add(name: "@i_EmployeeID", value: empDetails.EmployeeID, dbType: DbType.Int16, direction: ParameterDirection.Input);
             parameters.Add(name: "@i_OrganisationID", value: empDetails.OrganisationID, dbType: DbType.Int16, direction: ParameterDirection.Input);
+            parameters.Add(name: "@i_AutoNumber", value: empDetails.AutoNumber, dbType: DbType.Int16, direction: ParameterDirection.Input);
             parameters.Add(name: "@v_FirstName", value: empDetails.FirstName, dbType: DbType.String, direction: ParameterDirection.Input);
             parameters.Add(name: "@v_MiddleName", value: empDetails.MiddleName, dbType: DbType.String, direction: ParameterDirection.Input);
             parameters.Add(name: "@v_LastName", value: empDetails.LastName, dbType: DbType.String, direction: ParameterDirection.Input);
@@ -107,7 +108,7 @@ namespace HRMS.Repository
             parameters.Add(name: "@v_CreatedBy", value: empDetails.CreatedBy, dbType: DbType.String, direction: ParameterDirection.Input);
             parameters.Add(name: "@v_ModifiedBy", value: empDetails.ModifiedBy, dbType: DbType.String, direction: ParameterDirection.Input);
             var connection = new SqlConnection(connectionString);
-
+            
 
             return connection.Execute("[dbo].[usp_EmployeeDetail_Update]", parameters, commandType: CommandType.StoredProcedure);
 
