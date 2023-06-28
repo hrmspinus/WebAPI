@@ -22,3 +22,15 @@ C:\AK\Ui-Path\Pinus Project\HRMS\WEBAPI HRMS NEW\HRMS.WebAPI\HRMS.Repository\obj
 C:\AK\Ui-Path\Pinus Project\HRMS\WEBAPI HRMS NEW\HRMS.WebAPI\HRMS.Repository\obj\Release\net6.0\refint\HRMS.Repository.dll
 C:\AK\Ui-Path\Pinus Project\HRMS\WEBAPI HRMS NEW\HRMS.WebAPI\HRMS.Repository\obj\Release\net6.0\HRMS.Repository.pdb
 C:\AK\Ui-Path\Pinus Project\HRMS\WEBAPI HRMS NEW\HRMS.WebAPI\HRMS.Repository\obj\Release\net6.0\ref\HRMS.Repository.dll
+F:\Projects\HRMSWebApi\HRMS.WebAPI\HRMS.Repository\bin\Release\net6.0\HRMS.Repository.deps.json
+F:\Projects\HRMSWebApi\HRMS.WebAPI\HRMS.Repository\bin\Release\net6.0\HRMS.Repository.dll
+F:\Projects\HRMSWebApi\HRMS.WebAPI\HRMS.Repository\bin\Release\net6.0\HRMS.Repository.pdb
+F:\Projects\HRMSWebApi\HRMS.WebAPI\HRMS.Repository\obj\Release\net6.0\HRMS.Repository.csproj.AssemblyReference.cache
+F:\Projects\HRMSWebApi\HRMS.WebAPI\HRMS.Repository\obj\Release\net6.0\HRMS.Repository.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\HRMSWebApi\HRMS.WebAPI\HRMS.Repository\obj\Release\net6.0\HRMS.Repository.AssemblyInfoInputs.cache
+F:\Projects\HRMSWebApi\HRMS.WebAPI\HRMS.Repository\obj\Release\net6.0\HRMS.Repository.AssemblyInfo.cs
+F:\Projects\HRMSWebApi\HRMS.WebAPI\HRMS.Repository\obj\Release\net6.0\HRMS.Repository.csproj.CoreCompileInputs.cache
+F:\Projects\HRMSWebApi\HRMS.WebAPI\HRMS.Repository\obj\Release\net6.0\HRMS.Repository.dll
+F:\Projects\HRMSWebApi\HRMS.WebAPI\HRMS.Repository\obj\Release\net6.0\refint\HRMS.Repository.dll
+F:\Projects\HRMSWebApi\HRMS.WebAPI\HRMS.Repository\obj\Release\net6.0\HRMS.Repository.pdb
+F:\Projects\HRMSWebApi\HRMS.WebAPI\HRMS.Repository\obj\Release\net6.0\ref\HRMS.Repository.dll

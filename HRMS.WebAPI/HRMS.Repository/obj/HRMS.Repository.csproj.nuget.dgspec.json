@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\AK\\Ui-Path\\Pinus Project\\HRMS\\WEBAPI HRMS NEW\\HRMS.WebAPI\\HRMS.Repository\\HRMS.Repository.csproj": {}
+    "F:\\Projects\\HRMSWebApi\\HRMS.WebAPI\\HRMS.Repository\\HRMS.Repository.csproj": {}
   },
   "projects": {
-    "C:\\AK\\Ui-Path\\Pinus Project\\HRMS\\WEBAPI HRMS NEW\\HRMS.WebAPI\\HRMS.Repository\\HRMS.Repository.csproj": {
+    "F:\\Projects\\HRMSWebApi\\HRMS.WebAPI\\HRMS.Repository\\HRMS.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\AK\\Ui-Path\\Pinus Project\\HRMS\\WEBAPI HRMS NEW\\HRMS.WebAPI\\HRMS.Repository\\HRMS.Repository.csproj",
+        "projectUniqueName": "F:\\Projects\\HRMSWebApi\\HRMS.WebAPI\\HRMS.Repository\\HRMS.Repository.csproj",
         "projectName": "HRMS.Repository",
-        "projectPath": "C:\\AK\\Ui-Path\\Pinus Project\\HRMS\\WEBAPI HRMS NEW\\HRMS.WebAPI\\HRMS.Repository\\HRMS.Repository.csproj",
-        "packagesPath": "C:\\Users\\abiyu\\.nuget\\packages\\",
-        "outputPath": "C:\\AK\\Ui-Path\\Pinus Project\\HRMS\\WEBAPI HRMS NEW\\HRMS.WebAPI\\HRMS.Repository\\obj\\",
+        "projectPath": "F:\\Projects\\HRMSWebApi\\HRMS.WebAPI\\HRMS.Repository\\HRMS.Repository.csproj",
+        "packagesPath": "C:\\Users\\mail2\\.nuget\\packages\\",
+        "outputPath": "F:\\Projects\\HRMSWebApi\\HRMS.WebAPI\\HRMS.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\abiyu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mail2\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -69,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
